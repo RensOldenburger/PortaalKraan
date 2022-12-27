@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1671539467 source:c:\users\rensh\documents\haagse jaar 1\block 2\project offshore\code\relaytest\fuse.c
+	<avr/io.h>
+
+1671813108 source:c:\users\rensh\documents\haagse jaar 1\block 2\project offshore\code\relaytest\main.c
+	<util/delay.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<stdio.h>
+	<avr/io.h>
+
