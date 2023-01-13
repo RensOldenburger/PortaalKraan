@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1670942891 source:c:\users\rensh\documents\haagse jaar 1\block 2\project offshore\code\rotaryencoder\fuse.c
+	<avr/io.h>
+
+1673608436 source:c:\users\rensh\documents\haagse jaar 1\block 2\project offshore\code\rotaryencoder\main.c
+	<util/delay.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<stdio.h>
+	"h_bridge.h"
+	"h_bridge2.h"
+	"h_bridge3.h"
+
+1663856090 source:c:\users\rensh\documents\haagse jaar 1\block 2\project offshore\code\rotaryencoder\h_bridge.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"h_bridge.h"
+
+1673354087 c:\users\rensh\documents\haagse jaar 1\block 2\project offshore\code\rotaryencoder\h_bridge.h
+
+1673534680 source:c:\users\rensh\documents\haagse jaar 1\block 2\project offshore\code\rotaryencoder\h_bridge2.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"h_bridge2.h"
+
+1673354087 c:\users\rensh\documents\haagse jaar 1\block 2\project offshore\code\rotaryencoder\h_bridge2.h
+
+1671628817 c:\users\rensh\documents\haagse jaar 1\block 2\project offshore\code\rotaryencoder\h_bridge2.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"h_bridge2.h"
+
+1663856090 c:\users\rensh\documents\haagse jaar 1\block 2\project offshore\code\rotaryencoder\h_bridge.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"h_bridge.h"
+
+1673608491 source:c:\users\rensh\documents\haagse jaar 1\block 2\project offshore\code\rotaryencoder\h_bridge3.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"h_bridge3.h"
+
+1673354087 c:\users\rensh\documents\haagse jaar 1\block 2\project offshore\code\rotaryencoder\h_bridge3.h
+
